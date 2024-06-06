@@ -6,8 +6,9 @@ This guide will help you set up and run both the backend and frontend of  MVP we
 
 #### Prerequisites
 
-- Node.js installed on your machine
+- Node.js with Express installed on your machine
 - PostgreSQL database installed and running
+- Reactjs and Boostrap for the ux/ui design
 
 #### Installation Steps
 
