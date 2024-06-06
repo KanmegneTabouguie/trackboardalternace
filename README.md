@@ -1,4 +1,4 @@
-## MVP Web Application: Backend & Frontend Setup Guide
+## MVP Web TrackingBoardAlternance: Backend & Frontend Setup Guide
 
 This guide will help you set up and run both the backend and frontend of  MVP web application. The backend is responsible for providing APIs to interact with the application's data, while the frontend is the user interface that consumes these APIs.
 
@@ -14,7 +14,7 @@ This guide will help you set up and run both the backend and frontend of  MVP we
 1. Clone the backend repository from GitHub:
 
    ```
-   git clone <backend-repo-url>
+   git clone https://github.com/KanmegneTabouguie/trackboardalternace.git
    ```
 
 2. Navigate to the backend directory:
@@ -55,12 +55,6 @@ This guide will help you set up and run both the backend and frontend of  MVP we
 
 #### Installation Steps
 
-1. Clone the frontend repository from GitHub:
-
-   ```
-   git clone <frontend-repo-url>
-   ```
-
 2. Navigate to the frontend directory:
 
    ```
@@ -89,7 +83,7 @@ This guide will help you set up and run both the backend and frontend of  MVP we
 
 6. The frontend development server should now be running on `http://localhost:3000`.
 
-### Features of the Web Application
+### Features of the TrackingBoardAlternance Web Application
 
 1. **User Authentication**:
    - Users can register using the `/auth/register` endpoint.
