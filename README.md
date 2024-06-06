@@ -107,5 +107,4 @@ This guide will help you set up and run both the backend and frontend of  MVP we
 3. You can now interact with the web application, register/login, manage applications, and enjoy the features provided.
 
 ### Conclusion
-
-You have successfully set up and run both the backend and frontend of your MVP web application. You can further customize and expand the application based on your requirements and user feedback. Happy coding!
+ successfully set up and run both the backend and frontend of  MVP web application. Happy coding!
